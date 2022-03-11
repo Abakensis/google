@@ -1,0 +1,135 @@
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arimo:ital@1&display=swap" rel="stylesheet">);
+body {
+ font-family: 'arimo', sans-serif;
+ margin: 0;
+ padding: 0;
+}
+/* partie head  */
+.header {
+    width: 100vw;
+    height: 60px;
+    margin-top:4px; 
+    display:flex;
+    justify-content:right;
+    position:fixed;
+}
+.right{
+    width: 35vw;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:right;
+}
+.menus{
+    display: flex;
+    flex-wrap: nowrap;
+    font-size:35px;
+}
+.connection{
+    margin-right: 10px;
+}
+.Applications{
+    margin-right:5px;
+}
+.images{
+    margin-left:5px;
+    font-size:18px;
+    line-height:55px;
+}
+.gmail{
+    font-size:18px;
+    line-height:55px;
+}
+/* fin head  */
+.container{
+    width:100vw;
+    height:94vh;
+    
+  
+}
+.upside{
+    height:290px;
+    width:100vw;
+    align-items: center;
+
+}
+.vid{
+    width:100vw;
+    height: 193px;
+}
+.logo{
+    width:100vw;
+    height:97px;
+    text-align: center;
+}
+.searching{
+    width:100vw;
+    height:140px;
+display:flex;
+flex-wrap:wrap;
+
+}
+.searchcenter{
+width:100vw;
+text-align:center;
+ border-radius:26px;
+ justify-content:center;
+ justify-items:center;
+ display: flex;
+ height:50px;
+}
+.barre{
+    width:560px;
+    height:39px;
+    text-align:center;
+    justify-content:center;
+    justify-items: right;
+}
+.
+.google{
+    text-align:center;
+}
+.rchanche{
+    width:100vW;
+    text-align: center;
+    display:flex;
+    }
+.rgoogle{
+    width:50vw;
+    text-align:center;
+    
+}
+.chance{
+    width:50vw;
+    
+    text-align:center;
+   
+}
+.lang{
+    width:100vw;
+    height:50px;
+    text-align:center;
+}
+.foot{
+    line-height:20px;
+    width:100vw;
+    height:60px;
+}
+.Niger{
+    width:100vw;
+    flex-wrap:wrap;
+    height:25px;
+    margin-bottom:2px rgb(12, 9, 9) solid;
+
+}
+.autres{
+    display:flex;
+    border-bottom
+    height:25px;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none ;
+}
+/* fin partie body */
